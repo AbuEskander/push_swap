@@ -1,0 +1,7 @@
+.vscode
+
+*.o
+*.a
+a.out
+
+push_swap_vis*
